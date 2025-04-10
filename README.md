@@ -37,7 +37,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/LigerUchiha/UltimateGSM.git
-cd gsm-cracker-osint
+cd UltimateGSM
 Download or generate the Kraken rainbow tables and place them in the data/rainbow_tables/ directory.
 
 Install the necessary Python libraries:
